@@ -1,4 +1,4 @@
-### Hi there 👋
+### follow me on twitter @tsuuuukii lmao 2 lazy to customize this 
 
 <!--
 **qinatsu/qinatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
