@@ -11,7 +11,7 @@
 * <a href="https://github.com/vrienstudios/vidstreamdownloader">vidstreamdownloader (JS) - not very active</a><br>
 * <a href="https://github.com/qinatsu/dm-backup">dm-backup - active</a><br>
 * <a href="https://github.com/qinatsu/wifianywhere-clone">wifianywhere-clone - finished</a><br>
-and more!
+and <a href="https://github.com/qinatsu?tab=repositories">more</a>!
 
 
 ### contact me
