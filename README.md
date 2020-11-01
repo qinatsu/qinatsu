@@ -15,9 +15,10 @@ and <a href="https://github.com/qinatsu?tab=repositories">more</a>!
 
 
 ### contact me
-* <a href="https://twitter.com/littletsu__">twitter: @littletsu__</a><br>
+* twitter: <a href="https://twitter.com/littletsu__">@littletsu__</a><br>
 * discord: Littletsu#8243
 
+<br><img src="https://avatars1.githubusercontent.com/u/38116582?s=460&u=57942c8995599cc6f9c0e62ced6c59f4e649eb3c&v=4">
 <!--
 **qinatsu/qinatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
