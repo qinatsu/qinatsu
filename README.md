@@ -1,5 +1,23 @@
-### follow me on twitter @tsuuuukii lmao 2 lazy to customize this 
-also check out [vrienstudios](https://github.com/vrienstudios) cool things there
+### qinatsu
+* developer from mexico
+* she/they
+* programming since 2018
+* midly competent in JavaScript
+* trying to learn c++
+* i waste my time playing Rocket League or osu!
+<br><br>
+
+### projects
+* <a href="https://github.com/vrienstudios/vidstreamdownloader">vidstreamdownloader (JS) - not very active</a><br>
+* <a href="https://github.com/qinatsu/dm-backup">dm-backup - active</a><br>
+* <a href="https://github.com/qinatsu/wifianywhere-clone">wifianywhere-clone - finished</a><br>
+and more!
+
+
+### contact me
+* <a href="https://twitter.com/littletsu__">twitter: @littletsu__</a><br>
+* discord: Littletsu#8243
+
 <!--
 **qinatsu/qinatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
