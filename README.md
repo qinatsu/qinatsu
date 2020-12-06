@@ -8,7 +8,7 @@
 <br><br>
 
 ### projects
-* <a href="https://github.com/vrienstudios/anime-dl">anime-dl (JS) - not very active</a><br>
+* <a href="https://github.com/vrienstudios/anime-dl">anime-dl (JS)</a><br>
 * <a href="https://github.com/qinatsu/dm-backup">dm-backup - active</a><br>
 * <a href="https://github.com/qinatsu/wifianywhere-clone">wifianywhere-clone - finished</a><br>
 and <a href="https://github.com/qinatsu?tab=repositories">more</a>!
